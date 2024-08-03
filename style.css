@@ -1,0 +1,339 @@
+.box1{
+    margin-top: 100px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.box2>img{
+    margin-left: 50px;
+}
+.box2>.para{
+    font-size: 50px;
+    margin-left: -10px;
+    margin-top: 10px;
+    font: 3em sans-serif;
+}
+.box2>.para1{
+    margin-left: 100px;
+    margin-top: -40px;
+    font: 1em sans-serif;
+}
+.box3{
+    margin-top: 100px;
+    border-radius: 150px;
+}
+.box3>button{
+    border-radius: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: blue;
+    display: flex;
+}
+.box3>button>p{
+    padding-top: 4px;
+}
+.box3>button>img{
+    padding-top: 7px;
+}
+
+
+ 
+.image{
+    opacity: 0.1;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.box2>.butn1{
+    color: green;
+    background-color: rgb(241, 239, 239);
+    border: none;
+    height: 40px;
+    width: 100px;
+    margin-top: 20px;
+}
+.box2>.butn2{
+    color:  blue;
+    background-color: rgb(241, 239, 239);
+    border: none;
+    height: 40px;
+    width: 200px;
+    margin-left: 20px;
+}
+.box2>.butn3{
+    color:  blue;
+    background-color: rgb(241, 239, 239);
+    border: none;
+    height: 40px;
+    width: 100px;
+    margin-left: 20px;
+}
+.city>p{
+    font-size: large;
+    color: blue;
+    font: 1em sans-serif;
+    margin-top: 50px;
+}
+
+.city>select:hover{
+    border-color: blue;
+    box-shadow: 500px;
+}
+.city>select{
+    border-color: green;
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+}
+.city{
+    margin-left: 200px;
+}
+.event>p{
+    font-size: large;
+    color: blue;
+    font: 1em sans-serif;
+    
+}
+.event>select:hover{
+    border-color: blue;
+    box-shadow: 500px;
+}
+.event>select{
+    border-color: green;
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+}
+.event{
+    margin-left: 630px;
+    margin-top:-100px;
+}
+.campus>p{
+    font-size: large;
+    color: blue;
+    font: 1em sans-serif;
+    
+}
+.campus>select:hover{
+    border-color: blue;
+    box-shadow: 500px;
+}
+.campus>select{
+    border-color: green;
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+}
+.campus{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.preference>select{
+    border-color: green;
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+}
+.preference>p{
+    font-size: large;
+    color: blue;
+    font: 1em sans-serif;
+    
+}
+.preference>select:hover{
+    border-color: blue;
+}
+.preference{
+    margin-top: -100px;
+    margin-left: 630px;
+}
+.name{
+    margin-left: 200px;
+}
+.name>p{
+    font-size: large;
+    font: 1em sans-serif;
+    color: blue;
+}
+.name>input{
+   border-radius: 5px;
+   height: 50px;
+   width: 400px;
+   border: 1px solid green;
+}
+.name>input:hover{
+    border-color: blue;
+}
+.father{
+    margin-left: 630px;
+    margin-top: -105px;
+}
+.father>p{
+    font-size: large;
+    font: 1em sans-serif;
+    color: blue;
+}
+.father>input{
+   border-radius: 5px;
+   height: 50px;
+   width: 400px;
+   border: 1px solid green;
+}
+.father>input:hover{
+    border-color: blue;
+}
+.eamil{
+    margin-left: 200px;
+    
+   
+}
+.eamil>p{
+    font-size: large;
+    font: 1em sans-serif;
+    color: blue;
+}
+.eamil>input{
+   border-radius: 5px;
+   height: 50px;
+   width: 400px;
+   border: 1px solid green;
+}
+.eamil>input:hover{
+    border-color: blue;
+}
+.phone{
+    margin-left: 630px;
+    margin-top: -105px;
+    
+   
+}
+.phone>p{
+    font-size: large;
+    font: 1em sans-serif;
+    color: blue;
+}
+.phone>input{
+   border-radius: 5px;
+   height: 50px;
+   width: 400px;
+   border: 1px solid green;
+}
+.phone>input:hover{
+    border-color: blue;
+}
+
+.cnic{
+    margin-left: 200px;  
+   
+}
+.cnic>p{
+    font-size: large;
+    font: 1em sans-serif;
+    color: blue;
+}
+.cnic>input{
+   border-radius: 5px;
+   height: 50px;
+   width: 400px;
+   border: 1px solid green;
+}
+.cnic>input:hover{
+    border-color: blue;
+}
+
+
+.optional{
+    margin-left: 630px;  
+    margin-top: -105px;
+
+}
+.optional>p{
+    font-size: large;
+    font: 1em sans-serif;
+    color: blue;
+}
+.optional>input{
+   border-radius: 5px;
+   height: 50px;
+   width: 400px;
+   border: 1px solid green;
+}
+.optional>input:hover{
+    border-color: blue;
+}
+
+.date{
+    margin-left: 200px;  
+
+
+}
+.date>p{
+    font-size: large;
+    font: 1em sans-serif;
+    color: blue;
+}
+.date>input{
+   border-radius: 5px;
+   height: 50px;
+   width: 400px;
+   border: 1px solid green;
+}
+.date>input:hover{
+    border-color: blue;
+}
+.gender>select{
+    border-color: green;
+    height: 50px;
+    width: 400px;
+    border-radius: 5px;
+}
+.gender>p{
+    font-size: large;
+    color: blue;
+    font: 1em sans-serif;
+    
+}
+.gender>select:hover{
+    border-color: blue;
+}
+.gender{
+    margin-top: -100px;
+    margin-left: 630px;
+}
+.last>select{
+    border-color: green;
+    height: 50px;
+    width: 830px;
+    border-radius: 5px;
+}
+.last{
+    margin-left: -430px;
+}
+.last>p{
+    font-size: large;
+    color: blue;
+    font: 1em sans-serif;
+    
+}
+.last>select:hover{
+    border-color: blue;
+}
+.Laptop>select{
+    border-color: green;
+    height: 50px;
+    width: 830px;
+    border-radius: 5px;
+}
+.Laptop{
+    margin-left: 1px;
+}
+.Laptop>p{
+    font-size: large;
+    color: blue;
+    font: 1em sans-serif;
+    
+}
+.Laptop>select:hover{
+    border-color: blue;
+}
